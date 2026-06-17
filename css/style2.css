@@ -6,7 +6,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 
 
 
@@ -49,9 +49,9 @@ body{
 }
 
 img{
-    width: 700px;
+    width: 400px;
     margin-top: 25px;
-    border: 10px solid rgb(255 255 255)
+    border: 10px solid #f0f8ff;;
     border-radius: 20px;
 }
 
